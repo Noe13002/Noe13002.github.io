@@ -21,6 +21,11 @@ h1{
     font-size: 6VW;
 }
 
+img{
+    display: flex; 
+    justify-content: center;      
+}
+
 div{
     padding: 0px,1000px;
     display: flex; 
