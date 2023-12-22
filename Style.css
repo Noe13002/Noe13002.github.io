@@ -1,8 +1,19 @@
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    color: #232323;
+    text-decoration:none;
+    list-style: none;
+  }
+
+iframe{
+    border-style:none;
+}
+
 .game{
     width: 45vH;
     height: 80vH;
-}
-
-.body{
-    color: brown;
 }
