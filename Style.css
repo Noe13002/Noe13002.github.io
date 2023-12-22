@@ -2,19 +2,27 @@
 
 
 * {
-    margin: 0px;
-    padding: 0px;
-    color: #232323;
+    margin: 2VW;
+    color: #29BFFF;
     text-decoration:none;
     list-style: none;
+    font-family: Helvetica, Sans-Serif
   }
 
 iframe{
-    border-style:none;
+    border:2px solid rgb(255, 255, 255);
+    width:80vw;
+    height:30VW; 
+    display: flex; justify-content: center;
+    
 }
 
-.game{
-    width:80vw;
-     height:30VW; 
-     border: #232323;
+h1{
+    font-size: 6VW;
+}
+
+div{
+    padding: 0px,1000px;
+    display: flex; 
+    justify-content: center;   
 }
